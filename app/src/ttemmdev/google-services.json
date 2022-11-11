@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "263705294011",
+    "project_id": "tt-emmdev",
+    "storage_bucket": "tt-emmdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263705294011:android:884733f210c1f9799ea59e",
+        "android_client_info": {
+          "package_name": "com.tectoro.emm.announcements.ttemmdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263705294011-ekb5p277asjffepoeemard6ab90ak6oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqXsB6tyOAsgIt1aUUTCGSkKf9PSLh0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263705294011-ekb5p277asjffepoeemard6ab90ak6oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263705294011:android:3d75268632a69b369ea59e",
+        "android_client_info": {
+          "package_name": "com.tectoro.emm.browser.ttemmdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263705294011-ekb5p277asjffepoeemard6ab90ak6oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqXsB6tyOAsgIt1aUUTCGSkKf9PSLh0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263705294011-ekb5p277asjffepoeemard6ab90ak6oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263705294011:android:7e86ae048fbe1efc9ea59e",
+        "android_client_info": {
+          "package_name": "com.tectoro.emm.extensionapp.ttemmdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263705294011-ekb5p277asjffepoeemard6ab90ak6oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqXsB6tyOAsgIt1aUUTCGSkKf9PSLh0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263705294011-ekb5p277asjffepoeemard6ab90ak6oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

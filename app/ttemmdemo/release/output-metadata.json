@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.tectoro.emm.browser.ttemmdemo",
+  "variantName": "ttemmdemoRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 43,
+      "versionName": "1.43-ttemmdemo",
+      "outputFile": "app-ttemmdemo-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

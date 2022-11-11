@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "750661687413",
+    "project_id": "tt-emmdemo",
+    "storage_bucket": "tt-emmdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750661687413:android:4caa59512f359be6d1003c",
+        "android_client_info": {
+          "package_name": "com.tectoro.emm.announcements.ttemmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750661687413-1m5tph7tcve65qll0kfsggort2319ghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN5gpK-oRholChJ4C9Hh63ltQKkxmpngE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750661687413-1m5tph7tcve65qll0kfsggort2319ghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750661687413:android:8983ead1b9aca86ad1003c",
+        "android_client_info": {
+          "package_name": "com.tectoro.emm.browser.ttemmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750661687413-1m5tph7tcve65qll0kfsggort2319ghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN5gpK-oRholChJ4C9Hh63ltQKkxmpngE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750661687413-1m5tph7tcve65qll0kfsggort2319ghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750661687413:android:c7329e32020b7a91d1003c",
+        "android_client_info": {
+          "package_name": "com.tectoro.emm.extensionapp.ttemmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750661687413-1m5tph7tcve65qll0kfsggort2319ghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN5gpK-oRholChJ4C9Hh63ltQKkxmpngE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750661687413-1m5tph7tcve65qll0kfsggort2319ghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
